@@ -241,7 +241,7 @@
         <li>2nd place: {dues * 2}$</li>
     </ul>
     
-    <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
+    <h3 bind:this={sixThree}>6.3 Raising Dues</h3>
     <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
 
 </div>
