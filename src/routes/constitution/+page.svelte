@@ -201,9 +201,11 @@
     <p>Rookie drafts will consist of 4 rounds of drafting, with 2 minutes alotted for each pick.</p>
     <p>Any spots not filled during the draft can be filled once the waiver wire opens.</p>
 
-    <h3 bind:this={twoTwoOne}>2.2.1 Roster Cuts & Luxury Spots</h3>
-    <p>To make room for incoming draft picks, each members' roster size must be cut down to 15 total during a specified time period before NFL Draft.</p>
-    <p>If a member would like to keep past the 15 player limit, they must declare a number to the Commish and incure a 10% tax on each player over the 15 player limit.</p>
+    <h4 bind:this={twoTwoOne}>2.2.1 Roster Cuts & Luxury Spots</h4>
+    <div class="subBlock">
+        <p>To make room for incoming draft picks, each members' roster size must be cut down to 15 total during a specified time period before NFL Draft.</p>
+        <p>If a member would like to keep past the 15 player limit, they must declare a number to the Commish and incure a 10% tax on each player over the 15 player limit.</p>
+    </div>
 
     <h3 bind:this={twoThree}>2.3 Draft Day Trades</h3>
     <p>If a trade is being made during the draft, one or both parties can alert the commissioner to pause the draft to allow for extra time to negotiate the trade.</p>
