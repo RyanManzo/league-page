@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
  <p>Welcome to The League Page. I first would like to congratulate our most recent winner, Chasing Greatness on finally securing the most coveted sporting achievement, winning the hometown league. It took many heartbreaks and disappointing seasons, but you have finally caught greatness.</p>
  <p>Next, I would like to give some flowers to our runner up Rick for attempting to slay Goliath. We were rooting for you, and although an unfortunate end to the season, you will be back.</p>
- <p>We’re halfway through the offseason grind, and the main event is finally here: the NFL Draft. Mocks are flying, Adam and Ian are ready to spoil your favorite teams picks, trade talks are nothing but smokescreens, and the inevitable Raiders overdraft, the excitement is building.</p>
+ <p>We’re halfway through the offseason grind, and the main event is finally here: the NFL Draft. Mocks are flying, Adam and Ian are ready to spoil your favorite teams picks, trade talks are nothing but smokescreens, and the inevitable Raiders overdraft is on the horizon, the excitement is building.</p>
  <p>I hope you all enjoy this little website for our league, I will continue to update this and other features as I have time but I want to leave you with this.</p>
  <p>Goodluck to everyone reading this. I hope your favorite team takes who you want and I hope your guy makes it through camp without injuries. Cheers to the next year of Fantasy.</p>
 `;
